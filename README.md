@@ -3,13 +3,11 @@ Name-Supriya ankush Jadhav
 
 
 Part 2
-Question-1
-Check if the sentence is Grammatically correct: Please use any pre-trained model or use text from open datasets. Once done, please evaluate the English Grammar in the text column of the dataset. DataSet Link
-Sol. Built a function using Language Tool and TextBlob modules that can take text as input and run tests to check if the sentence is gramatically correct, then applied the function on given dataset. Generated a new dataset with all gramatically incorrect sentences. To check code solution see (Part 2) Question 1
+Question-2
 
 Questions
 Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution).
-A. During a project where I given a task to build a machine learning model that predicts if a website domain is real or malicious, the model was also supposed to be deployed as an API which takes user input of an URL, The deployment process was particularly difficult as model had many features and data preprocessing was to be done on each feature to match user's input. After alot of time & effort we managed to get the work done.
+A.Write about any difficult problem that you solved. (According to us difficult - is something which 90% of people would have only 10% probability in getting a similarly good solution). Ans: I worked on the project of Employee performance considering various constraints the main constraint is effect on employee perforamnce depending upon work from home situation. The problem is we don't have dataset we have to collect or make the random dataset.So I created random dataset using various python libraries. The dataset has 5000 rows and 30 features but the some of the features were not corelated.I solved this problem of correlation of Random dataset using various conditional statement applying on features.
 
 Formally, a vector space V' is a subspace of a vector space V if
 V' is a vector space
